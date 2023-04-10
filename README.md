@@ -6,6 +6,7 @@ To get started with the project, you will need to have Java installed on your lo
 
 # Installation
 To install this project on your local machine, simply clone this repository using the following command:
+
 git clone https://github.com/<your-username>/PracticeWithJava.git
 
 # Usage
